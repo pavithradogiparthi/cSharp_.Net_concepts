@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5rtVA3uESuQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pavithra dogiparthi\\Desktop\\pavithra_dogiparthi\\c#_Practice\\Servicelifetimes\\Servicelifetimes\\Servicelifetimes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavithra dogiparthi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\pavithra dogiparthi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
