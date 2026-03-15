@@ -1,0 +1,14 @@
+{
+  "NServiceBus.MessageId": "61bf3c82-ccd1-4d6f-bb58-b2480082c82e",
+  "NServiceBus.MessageIntent": "Send",
+  "NServiceBus.ConversationId": "4b13c851-e254-44a6-abd6-b2480082c830",
+  "NServiceBus.CorrelationId": "61bf3c82-ccd1-4d6f-bb58-b2480082c82e",
+  "NServiceBus.ReplyToAddress": "MyEndpoint",
+  "NServiceBus.OriginatingMachine": "DESKTOP-PLQTJQ1",
+  "NServiceBus.OriginatingEndpoint": "MyEndpoint",
+  "$.diagnostics.originating.hostid": "b34ab25622620ce268b27ba71df9b25f",
+  "NServiceBus.ContentType": "application\/json",
+  "NServiceBus.EnclosedMessageTypes": "Nservicebus_example.Command, Nservicebus_example, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "9.2.3",
+  "NServiceBus.TimeSent": "2024-12-16 07:56:10:195481 Z"
+}
